@@ -41,6 +41,20 @@
 4. **Comment your code** - Explain what each sprite does
 5. **Debug** - If something breaks, check the last thing you changed
 
+## Starter Code Examples
+
+Check out the [`examples/`](examples/) folder for code you can learn from:
+
+| File | What It Teaches |
+|------|-----------------|
+| [`01-sprite-click.js`](examples/01-sprite-click.js) | Click detection, scoring, random positions |
+| [`02-keyboard-movement.js`](examples/02-keyboard-movement.js) | Arrow key controls, keeping sprites on screen |
+| [`03-mouse-follow.js`](examples/03-mouse-follow.js) | Mouse tracking, smooth movement, timers |
+| [`04-multiple-scenes.js`](examples/04-multiple-scenes.js) | Switching between levels/scenes |
+| [`05-complete-game.js`](examples/05-complete-game.js) | Full game with movement, enemies, collectibles, game over |
+
+**How to use:** Copy the code into a new CodeHS project and run it. Read the comments to understand how it works, then modify it for your own game!
+
 ## Resources
 
 - [CodeHS Documentation](https://codehs.com/documentation)
