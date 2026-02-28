@@ -2,6 +2,9 @@
 
 **Name:** ________________________________________ **Date:** _______________
 
+**CodeHS Project Name:** _________________________________ Coding Competition
+*(Example: "Emma Smith Coding Competition")*
+
 ---
 
 ## 1. My Game Idea
@@ -92,6 +95,8 @@ Draw what your main game screen will look like:
 - [ ] I have at least 2-3 scenes or levels planned
 - [ ] I know what interactive elements I'll use (clicks, keys, or mouse)
 - [ ] I know what sprites I need to create
+- [ ] I will add a comment for every sprite
+- [ ] I will add instructions at the start of my game
 
 ---
 
@@ -104,6 +109,18 @@ List where you'll get your images (remember to cite your sources!):
 | | |
 | | |
 | | |
+
+---
+
+## 8. Before You Submit - Final Checklist
+
+- [ ] Project named "MyName Coding Competition"
+- [ ] Game runs without errors
+- [ ] Every sprite has a comment
+- [ ] Instructions appear when game starts
+- [ ] All image sources are cited in comments
+- [ ] No AI-generated code or images
+- [ ] Got submission form from Computer Teacher
 
 ---
 
