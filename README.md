@@ -33,6 +33,12 @@
 - **Ocean Cleanup** - Multiple levels, collect trash while avoiding sharks
 - **Pirate Treasure Hunt** - Story-based game with clues and puzzles
 
+## Planning Worksheet
+
+Print the planning worksheet to sketch out your game before coding:
+- **[planning-worksheet.html](planning-worksheet.html)** - Open in browser and print (recommended)
+- **[planning-worksheet.md](planning-worksheet.md)** - Markdown version
+
 ## Tips
 
 1. **Plan first** - Sketch your game on paper before coding
